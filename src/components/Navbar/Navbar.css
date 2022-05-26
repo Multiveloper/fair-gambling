@@ -1,0 +1,12 @@
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    background-color: beige;
+}
+
+a {
+    margin-right: 20px;
+    font-size: 20px;
+}
